@@ -1,2 +1,67 @@
-# Keybase.md
-{"status":{"code":0,"name":"OK"},"sigs":[{"seqno":16,"payload_hash":"31a887025c5e8322363168eb058ebb311825ffe136bee46e829d55bfca25e86f","merkle_seqno":15693598,"sig_id":"2420b9429952545ddf2f7ac64a871b3f3cb980cc40c8f31dab49ec9bd21c734a0f","sig_id_short":"JCC5QplSVF3fL3rGSocbPzy5gMxAyPMdq0ns","kid":"01206a7d47916221401d067242526233bd77dea4d371b0f6fc68c4849b7ed930d8da0a","sig":"hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgan1HkWIhQB0GckJSYjO9d96k03Gw9vxoxISbftkw2NoKp3BheWxvYWTESpcCEMQglTcfbFdJDaEgG9ymlDCnwCPUnl8iFb5iX1ybIyemnWjEILRtVIzvGAtN+Zo0sMRf/3C48H+RsmvydqNeEDKw/dnNAgHCo3NpZ8RAACHWZOYOb1kt6xHBIGUZ7OjgP1ugMsJwNPkS5GajhiZ75nv9QBsE1qUmmgubvVwtTXCLW398AM2stIda9c+eD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIT2XkpuInG+mnR6/hG9QJ4FySXkz9AYqT9puYF9ib6Xo3RhZ80CAqd2ZXJzaW9uAQ==","payload_json":"{\"body\":{\"key\":{\"eldest_kid\":\"0120a40e2781504aae26a39a883bc25bd029e58252dacb2ef22ade60b7adc65646910a\",\"host\":\"keybase.io\",\"kid\":\"01206a7d47916221401d067242526233bd77dea4d371b0f6fc68c4849b7ed930d8da0a\",\"uid\":\"0258c6223b170a19edfbfeb84b538a19\",\"username\":\"tanvir14\"},\"merkle_root\":{\"ctime\":1585642938,\"hash\":\"32f39588d7f12ad02c31877d6b8c9df58bd82a8f7956fb0bcbf9bf48ffe293a80da770d901aae0f9a31fdd7513246470ee356cc710044118aff4f7698e579a70\",\"hash_meta\":\"ae70c53721ffcb73a91f48865a271f7b682b0cb14299537f7eda4e433fa2467a\",\"seqno\":15693594},\"service\":{\"entropy\":\"CJ9rjs6xOqdrKzq58lDV3ewW\",\"name\":\"github\",\"username\":\"tanvir1414\"},\"type\":\"web_service_binding\",\"version\":2},\"client\":{\"name\":\"keybase.io go client\",\"version\":\"5.3.0\"},\"ctime\":1585643022,\"expire_in\":504576000,\"prev\":\"95371f6c57490da1201bdca69430a7c023d49e5f2215be625f5c9b2327a69d68\",\"seqno\":16,\"tag\":\"signature\"}","sig_type":2,"sig_version":2,"ctime":1585643022,"etime":2090219022,"rtime":null,"eldest_seqno":4,"sig_status":0,"prev":"95371f6c57490da1201bdca69430a7c023d49e5f2215be625f5c9b2327a69d68","proof_id":"c0ee8b593924faea37fa0310","proof_type":3,"proof_text_check":"hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgan1HkWIhQB0GckJSYjO9d96k03Gw9vxoxISbftkw2NoKp3BheWxvYWTESpcCEMQglTcfbFdJDaEgG9ymlDCnwCPUnl8iFb5iX1ybIyemnWjEILRtVIzvGAtN+Zo0sMRf/3C48H+RsmvydqNeEDKw/dnNAgHCo3NpZ8RAACHWZOYOb1kt6xHBIGUZ7OjgP1ugMsJwNPkS5GajhiZ75nv9QBsE1qUmmgubvVwtTXCLW398AM2stIda9c+eD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIT2XkpuInG+mnR6/hG9QJ4FySXkz9AYqT9puYF9ib6Xo3RhZ80CAqd2ZXJzaW9uAQ==","proof_text_full":"### Keybase proof\n\nI hereby claim:\n\n  * I am tanvir1414 on github.\n  * I am tanvir14 (https://keybase.io/tanvir14) on keybase.\n  * I have a public key ASBqfUeRYiFAHQZyQlJiM7133qTTcbD2_GjEhJt-2TDY2go\n\nTo claim this, I am signing this object:\n\n```json\n{\n  \"body\": {\n    \"key\": {\n      \"eldest_kid\": \"0120a40e2781504aae26a39a883bc25bd029e58252dacb2ef22ade60b7adc65646910a\",\n      \"host\": \"keybase.io\",\n      \"kid\": \"01206a7d47916221401d067242526233bd77dea4d371b0f6fc68c4849b7ed930d8da0a\",\n      \"uid\": \"0258c6223b170a19edfbfeb84b538a19\",\n      \"username\": \"tanvir14\"\n    },\n    \"merkle_root\": {\n      \"ctime\": 1585642938,\n      \"hash\": \"32f39588d7f12ad02c31877d6b8c9df58bd82a8f7956fb0bcbf9bf48ffe293a80da770d901aae0f9a31fdd7513246470ee356cc710044118aff4f7698e579a70\",\n      \"hash_meta\": \"ae70c53721ffcb73a91f48865a271f7b682b0cb14299537f7eda4e433fa2467a\",\n      \"seqno\": 15693594\n    },\n    \"service\": {\n      \"entropy\": \"CJ9rjs6xOqdrKzq58lDV3ewW\",\n      \"name\": \"github\",\n      \"username\": \"tanvir1414\"\n    },\n    \"type\": \"web_service_binding\",\n    \"version\": 2\n  },\n  \"client\": {\n    \"name\": \"keybase.io go client\",\n    \"version\": \"5.3.0\"\n  },\n  \"ctime\": 1585643022,\n  \"expire_in\": 504576000,\n  \"prev\": \"95371f6c57490da1201bdca69430a7c023d49e5f2215be625f5c9b2327a69d68\",\n  \"seqno\": 16,\n  \"tag\": \"signature\"\n}\n```\n\nwith the key [ASBqfUeRYiFAHQZyQlJiM7133qTTcbD2_GjEhJt-2TDY2go](https://keybase.io/tanvir14), yielding the signature:\n\n```\nhKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgan1HkWIhQB0GckJSYjO9d96k03Gw9vxoxISbftkw2NoKp3BheWxvYWTESpcCEMQglTcfbFdJDaEgG9ymlDCnwCPUnl8iFb5iX1ybIyemnWjEILRtVIzvGAtN+Zo0sMRf/3C48H+RsmvydqNeEDKw/dnNAgHCo3NpZ8RAACHWZOYOb1kt6xHBIGUZ7OjgP1ugMsJwNPkS5GajhiZ75nv9QBsE1qUmmgubvVwtTXCLW398AM2stIda9c+eD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIT2XkpuInG+mnR6/hG9QJ4FySXkz9AYqT9puYF9ib6Xo3RhZ80CAqd2ZXJzaW9uAQ==\n\n```\n\nAnd finally, I am proving ownership of the github account by posting this as a gist.\n\n### My publicly-auditable identity:\n\nhttps://keybase.io/tanvir14\n\n### From the command line:\n\nConsider the [keybase command line program](https://keybase.io/download).\n\n```bash\n# look me up\nkeybase id tanvir14\n```\n","check_data_json":"{\"entropy\":\"CJ9rjs6xOqdrKzq58lDV3ewW\",\"name\":\"github\",\"username\":\"tanvir1414\"}","remote_id":"","api_url":null,"human_url":null,"proof_state":2,"proof_status":201,"retry_count":1,"hard_fail_count":1,"last_check":1585643236,"last_success":null,"version":2,"is_eldest":0,"fingerprint":""}]}
+### Keybase proof
+
+I hereby claim:
+
+  * I am tanvir1414 on github.
+  * I am tanvir14 (https://keybase.io/tanvir14) on keybase.
+  * I have a public key ASCkDieBUEquJqOaiDvCW9Ap5YJS2ssu8ireYLetxlZGkQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a40e2781504aae26a39a883bc25bd029e58252dacb2ef22ade60b7adc65646910a",
+      "host": "keybase.io",
+      "kid": "0120a40e2781504aae26a39a883bc25bd029e58252dacb2ef22ade60b7adc65646910a",
+      "uid": "0258c6223b170a19edfbfeb84b538a19",
+      "username": "tanvir14"
+    },
+    "merkle_root": {
+      "ctime": 1585644302,
+      "hash": "09f966098b96cb6b0289675e38364a2ced669f6350f14f0d33ff6f9fd578f41545c3653bf384dc52ea0220e7d093103f7b83a615447a31d5ee968fa1f4896711",
+      "hash_meta": "b34170231b9b622f2f27dd15af1ef960b6f6d75e59a2657c84f9a743a3ea707e",
+      "seqno": 15693720
+    },
+    "service": {
+      "entropy": "MY1B4CSb9tT1BQu9CemwLHve",
+      "name": "github",
+      "username": "tanvir1414"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585644319,
+  "expire_in": 504576000,
+  "prev": "113f4ec4b0531766df56edbdd1dbfd65d896a157a12d2de36b3b56cc5a8b6e3b",
+  "seqno": 18,
+  "tag": "signature"
+}
+```
+
+with the key [ASCkDieBUEquJqOaiDvCW9Ap5YJS2ssu8ireYLetxlZGkQo](https://keybase.io/tanvir14), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpA4ngVBKriajmog7wlvQKeWCUtrLLvIq3mC3rcZWRpEKp3BheWxvYWTESpcCEsQgET9OxLBTF2bfVu290dv9ZdiWoVehLS3jaztWzFqLbjvEIE3w3XOkLUJp1knHd3W8s3uUSwWSuwrF7hlgdyme3UkjAgHCo3NpZ8RADmDKP2lYyipIB/UDq9iBKLcWPRqB/wMR5Hstoudpw2QuLMvJN9P2masLXWea96nPb4IXv/LkL+HOU+G4yLX4BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA14HkpMNhD9E/sC9JXZN5uXpC4zxq0G5oUkRiDlYmy7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/tanvir14
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id tanvir14
+```
